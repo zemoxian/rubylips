@@ -1,0 +1,4 @@
+RUBYLIPS
+
+The goal is to create an embedable extension to Ruby using an internal
+DSL to integrate literate programming into the language.
